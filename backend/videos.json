@@ -109,7 +109,7 @@
         "descricao": "12 mil visualizações",
         "url": "https://www.youtube.com/embed/Lhu8bdmkMCM",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "id": 13,
+        "id": 14,
         "categoria": "Inteligência Artificial"
       },
       {
@@ -117,9 +117,58 @@
         "descricao": "15 mil visualizações",
         "url": "https://www.youtube.com/embed/ZllgbJt3Ld4",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "id": 13,
+        "id": 15,
         "categoria": "Inteligência Artificial"
+      },
+      {
+        "titulo": "Encontrar o EQUILÍBRIO FINANCEIRO | A Mentalidade das Finanças Pessoais",
+        "descricao": "15 mil visualizações",
+        "url": "https://www.youtube.com/embed/Ep65y-eQxgE",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 16,
+        "categoria": "Finanças"
+      },
+      {
+        "titulo": "Como Fazer O DINHEIRO CRESCER | 3 Fases das Finanças Pessoais",
+        "descricao": "15 mil visualizações",
+        "url": "https://www.youtube.com/embed/3uwjOzbEYjU",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 17,
+        "categoria": "Finanças"
+      },
+      {
+        "titulo": "OS 10 HÁBITOS DAS PESSOAS MAIS BEM-SUCEDIDAS DO MUNDO | Hábitos de Sucesso (O 11º ESTÁ NA DESCRIÇÃO)",
+        "descricao": "15 mil visualizações",
+        "url": "https://www.youtube.com/embed/mE4QuBimjyE",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 18,
+        "categoria": "Finanças"
+      },
+      {
+        "titulo": "12 APPS ESSENCIAIS para 🔥 AUMENTAR sua PRODUTIVIDADE e 🗓️ORGANIZAR sua VIDA!!)",
+        "descricao": "15 mil visualizações",
+        "url": "https://www.youtube.com/embed/C6KMQxZRc-g",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 19,
+        "categoria": "Apps"
+      },
+      {
+        "titulo": "Data Science In 5 Minutes | Data Science For Beginners | What Is Data Science? | Simplilearn",
+        "descricao": "15 mil visualizações",
+        "url": "https://www.youtube.com/embed/X3paOmcrTjQ",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 20,
+        "categoria": "Data Science"
+      },
+      {
+        "titulo": "Tudo sobre Front-End: 💰 salários, o que estudar e dicas para carreira.",
+        "descricao": "15 mil visualizações",
+        "url": "https://www.youtube.com/embed/8xo1FID4TqU",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 21,
+        "categoria": "Front-end"
       }
+      
     ]
   }
   
