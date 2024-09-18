@@ -30,7 +30,7 @@
         "descricao": "2,5 mil visualizações",
         "url": "https://www.youtube.com/embed/WK0EsOkVyvM",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Data Science"
+        "categoria": "Academia"
       },
       {
         "id": 5,
@@ -38,7 +38,7 @@
         "descricao": "1,2 mil visualizações",
         "url": "https://www.youtube.com/embed/x0SSwjIo22o",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Podcasts"
+        "categoria": "Academia"
       },
       {
         "id": 6,
@@ -46,7 +46,7 @@
         "descricao": "1,6 mil visualizações",
         "url": "https://www.youtube.com/embed/tpQBhLgK300",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Mobile"
+        "categoria": "Academia"
       },
       {
         "id": 7,
@@ -54,7 +54,7 @@
         "descricao": "3,2 mil visualizações",
         "url": "https://www.youtube.com/embed/pQSuQmUfS30",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Data Science"
+        "categoria": "Podcasts"
       },
       {
         "id": 8,
@@ -62,7 +62,7 @@
         "descricao": "1,2 mil visualizações",
         "url": "https://www.youtube.com/embed/tpmg-PNUa9Q",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Programação"
+        "categoria": "Podcasts"
       },
       {
         "titulo": "[PT/EN] RAMON DINO - Flow #293",
@@ -70,7 +70,7 @@
         "url": "https://www.youtube.com/embed/BhS9eJrlusU?start=12",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 9,
-        "categoria": "Ao Vivo"
+        "categoria": "Podcasts"
       },
       {
         "titulo": "Santos 4 x 5 Flamengo - melhores momentos (GLOBO HD 720p) Campeonato Brasileiro 2011",
@@ -78,7 +78,7 @@
         "url": "https://www.youtube.com/embed/ycpt3nSK4QE",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 10,
-        "categoria": "Debates"
+        "categoria": "Futebol"
       },
       {
         "titulo": "Barcelona 6 x 1 PSG - Melhores Momentos - Oitavas de Final Champions League 2016/17",
@@ -86,7 +86,7 @@
         "url": "https://www.youtube.com/embed/dghDh1Nnkzo",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 11,
-        "categoria": "Inovação"
+        "categoria": "Futebol"
       },
       {
         "titulo": "MESSI NÃO É DESSE PLANETA! BARCELONA 3X0 BAYERN | MELHORES MOMENTOS | SEMIFINAL CHAMPIONS 2014/15",
@@ -94,7 +94,7 @@
         "url": "https://www.youtube.com/embed/gdu8RIN-SHk",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 12,
-        "categoria": "Front-end"
+        "categoria": "Futebol"
       },
       {
         "titulo": "O Verdadeiro Problema de Inteligências Artificiais",

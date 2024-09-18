@@ -75,3 +75,20 @@ function filtrarPorCategoria(filtro){
         }
     }
 }
+
+function reiniciaPagina(){
+  window.location.reload();
+}
+
+const logo_Img = document.querySelector(".logo__item")
+logo_Img.addEventListener("click" , () => reiniciaPagina());
+
+const btnInicio = document.getElementById("botaoInicio")
+btnInicio.addEventListener("click", () => reiniciaPagina());
+
+
+const darkMode = document.querySelector(".cabecalho__switch-input");
+
+darkMode.addEventListener("change", () => {
+    document.documentElement.classList.toggle("light");
+});
