@@ -2,104 +2,120 @@
     "videos": [
       {
         "id": 1,
-        "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
-        "descricao": "3 mil visualizações",
-        "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+        "titulo": "Música Chillout Profunda - Mistura de foco e alívio do estresse",
+        "descricao": "341 mil visualizações",
+        "url": "https://www.youtube.com/embed/J-BKM2ig744",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Programação"
+        "categoria": "Musicas Relaxantes"
       },
       {
         "id": 2,
-        "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+        "titulo": "Boost Your Focus: Future Garage Beats for Ultimate Work Productivity",
         "descricao": "1,5 mil visualizações",
-        "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+        "url": "https://www.youtube.com/embed/EmAzY7yFm0k",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Mobile"
+        "categoria": "Musicas Relaxantes"
       },
       {
         "id": 3,
-        "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+        "titulo": "Música de Trabalho Produtiva - Mistura de Concentração de Tony Stark",
         "descricao": "30 mil visualizações",
-        "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+        "url": "https://www.youtube.com/embed/LVbUNRwpXzw",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Programação"
+        "categoria": "Musicas Relaxantes"
       },
       {
         "id": 4,
-        "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+        "titulo": "Daddy's Home Chest Day",
         "descricao": "2,5 mil visualizações",
-        "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+        "url": "https://www.youtube.com/embed/WK0EsOkVyvM",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "categoria": "Data Science"
       },
       {
         "id": 5,
-        "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+        "titulo": "Max Effort Leg Day",
         "descricao": "1,2 mil visualizações",
-        "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+        "url": "https://www.youtube.com/embed/x0SSwjIo22o",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "categoria": "Podcasts"
       },
       {
         "id": 6,
-        "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+        "titulo": "Shoulders and Back Day",
         "descricao": "1,6 mil visualizações",
-        "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+        "url": "https://www.youtube.com/embed/tpQBhLgK300",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "categoria": "Mobile"
       },
       {
         "id": 7,
-        "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+        "titulo": "CBUM - Flow #319",
         "descricao": "3,2 mil visualizações",
-        "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+        "url": "https://www.youtube.com/embed/pQSuQmUfS30",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "categoria": "Data Science"
       },
       {
         "id": 8,
-        "titulo": "baNaNa | Memes do JavaScript #2",
+        "titulo": "LEO STRONDA + RENATO CARIANI - Flow #353",
         "descricao": "1,2 mil visualizações",
-        "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+        "url": "https://www.youtube.com/embed/tpmg-PNUa9Q",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "categoria": "Programação"
       },
       {
-        "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+        "titulo": "[PT/EN] RAMON DINO - Flow #293",
         "descricao": "1 mil visualizações",
-        "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+        "url": "https://www.youtube.com/embed/BhS9eJrlusU?start=12",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 9,
         "categoria": "Ao Vivo"
       },
       {
-        "titulo": "Guia de carreira Front-end | #HipstersPontoTube",
+        "titulo": "Santos 4 x 5 Flamengo - melhores momentos (GLOBO HD 720p) Campeonato Brasileiro 2011",
         "descricao": "18 mil visualizações",
-        "url": "https://www.youtube.com/embed/fpth65ts3cw",
+        "url": "https://www.youtube.com/embed/ycpt3nSK4QE",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 10,
         "categoria": "Debates"
       },
       {
-        "titulo": "Educação coorporativa",
+        "titulo": "Barcelona 6 x 1 PSG - Melhores Momentos - Oitavas de Final Champions League 2016/17",
         "descricao": "4 mil visualizações",
-        "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+        "url": "https://www.youtube.com/embed/dghDh1Nnkzo",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 11,
         "categoria": "Inovação"
       },
       {
-        "titulo": "Como deixar o Layout Responsivo no seu site | #AluraMais",
+        "titulo": "MESSI NÃO É DESSE PLANETA! BARCELONA 3X0 BAYERN | MELHORES MOMENTOS | SEMIFINAL CHAMPIONS 2014/15",
         "descricao": "7 mil visualizações",
-        "url": "https://www.youtube.com/embed/kyFiT4ofMwk",
+        "url": "https://www.youtube.com/embed/gdu8RIN-SHk",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 12,
         "categoria": "Front-end"
       },
       {
-        "titulo": "Será que a inteligência artificial será tão poderosa quanto os seres humanos? com Gui Silveira",
+        "titulo": "O Verdadeiro Problema de Inteligências Artificiais",
+        "descricao": "18 mil visualizações",
+        "url": "https://www.youtube.com/embed/IH-wBijX53M",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 13,
+        "categoria": "Inteligência Artificial"
+      },
+      {
+        "titulo": "A história da Inteligência Artificial - TecMundo",
         "descricao": "12 mil visualizações",
-        "url": "https://www.youtube.com/embed/Kk3vBRqKA2o",
+        "url": "https://www.youtube.com/embed/Lhu8bdmkMCM",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 13,
+        "categoria": "Inteligência Artificial"
+      },
+      {
+        "titulo": "A EVOLUÇÃO DAS I.A - ANDRÉ RONCAGLIA",
+        "descricao": "15 mil visualizações",
+        "url": "https://www.youtube.com/embed/ZllgbJt3Ld4",
         "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
         "id": 13,
         "categoria": "Inteligência Artificial"
