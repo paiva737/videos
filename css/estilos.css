@@ -336,6 +336,15 @@ iframe{
     width: 0px;
     height: 0px;
 }
+footer{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    height: 20px;
+    
+}
 
 @media(min-width: 834px) {
 
@@ -373,17 +382,10 @@ iframe{
         padding-right: 17px;
     }
 
+  
 }
 
-footer{
-    justify-content: center;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    height: 20px;
-    
-}
+
 
 
 @media(min-width: 1440px) {
@@ -406,5 +408,10 @@ footer{
         padding-right: 10px;
         padding-left: 248px;
     }
+}
 
+@media(max-width: 600px){
+    footer{
+        display: none;
+    }
 }
