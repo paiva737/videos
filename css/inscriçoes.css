@@ -1,0 +1,11 @@
+.mainContent{
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+height: 20vh;
+width: 40vh;
+margin: 100px 100px 30px 300px;
+
+}
+
+
