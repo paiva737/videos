@@ -1,11 +1,124 @@
-.mainContent{
-display: flex;
-flex-direction: row;
-flex-wrap: nowrap;
-height: 20vh;
-width: 40vh;
-margin: 100px 100px 30px 300px;
+main{
+    background-color: var(--text-color) 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 30vh;
+   gap: 20px;
+   
+}
 
+.mainContent{
+    background-color: var(--text-color);
+    margin: 100px 0px 0px 0px;     
+    position: fixed;
+    width: 130vh;
+   
 }
 
 
+
+#offcanvas{
+    bottom: 0;
+    right: 0;
+}
+
+
+
+
+@media(min-width: 834px) {
+
+    body {
+        height: 100vh;
+    }
+
+    /* ESTILOS DO MENU LATERAL */
+
+    .menu__container {
+        font-size: 16px;
+    }
+
+    .menu__lista {
+        padding-top: 15px;
+    }
+
+    .menu__lista li {
+        width: 100%;
+    }
+
+    /* ESTILOS DA SECAO SUPERIOR */
+
+    .superior__secao__container {
+        border-top: var(--azul-medio) 1px solid;
+        border-bottom: var(--azul-medio) 1px solid;
+        width: auto;
+        left: 82px;
+    }
+
+    /*ESTILOS SEÇÃO VÍDEOS */
+
+    .videos__container {
+        padding-left: 90px;
+        padding-right: 17px;
+    }
+    
+    .mainContent{
+        position: absolute;  
+        display: flex;
+        flex-direction: row; 
+        flex-wrap: wrap;
+        height: 0vh;
+       margin-left:200px;
+    }
+    #offcanvas{
+       width: 32vh;
+    }
+    .btn-danger{
+    display: none;    
+    }
+}
+
+
+
+
+@media(min-width: 1440px) {
+
+    /* SEÇÃO SUPERIOR */
+
+    .superior__secao__container {
+        left: 247px;
+    }
+
+    /* ESTILOS DO MENU LATERAL */
+
+    .menu__lista {
+        border-bottom: 1.5px solid var(--azul-medio);
+    }
+
+    
+  
+}
+
+@media(max-width: 600px){
+    footer{
+        display: none;
+    }
+        .menu__container{
+            display: none;
+        }
+    main{
+       margin: 100px;
+       padding: 10px;
+       width: 100vh;
+        justify-content: left;
+    }
+    .mainContent{
+      width: 100%;
+      right: 300px;
+    position: relative;
+    }
+
+    #offcanvas{
+        display: none;
+    }
+}

@@ -420,7 +420,7 @@ footer{
         padding-left: 90px;
         padding-right: 17px;
     }
-
+   
   
 }
 
@@ -447,10 +447,24 @@ footer{
         padding-right: 10px;
         padding-left: 248px;
     }
+  
 }
 
 @media(max-width: 600px){
     footer{
         display: none;
     }
+    
+    main{
+       margin: 100px;
+       padding: 10px;
+       width: 100vh;
+        justify-content: left;
+    }
+    .mainContent{
+      width: 100%;
+      right: 300px;
+    position: relative;
+    }
+    
 }
