@@ -16,7 +16,26 @@ main{
    
 }
 
+.container{
+    border: 2px solid;
+    height: 100vh;
+    margin-top: 100px;
+  
+}
 
+.img-thumbnail{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.nameCanal{
+    
+    
+}
 
 #offcanvas{
     bottom: 0;
