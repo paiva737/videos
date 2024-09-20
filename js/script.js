@@ -48,10 +48,11 @@ function filtrarPesquisa(){
             } else {
                 video.style.display = "block";
             }
-
         }
     } else {
-        video.style.display = "block";
+        for(let video of videos){
+            video.style.display = "block";
+        }
     }
 }
 

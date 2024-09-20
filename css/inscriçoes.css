@@ -1,3 +1,10 @@
+.cabecalho__container{
+    border: solid 2px;
+    position: fixed;
+}
+
+
+
 main{
     background-color: var(--text-color) 100vh;
     display: flex;
@@ -18,23 +25,25 @@ main{
 
 .container{
     border: 2px solid;
-    height: 100vh;
+    height: 160vh;
     margin-top: 100px;
-  
+    position: absolute;
+    left: 100px;
+    top: 20px;
 }
 
-.img-thumbnail{
-    width: 100px;
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    margin-top: 30px;
-    margin-left: 20px;
+.card-img-top{
+    height: 40vh;
+    width: 30vh;
+    height: 20vh;
 }
 
-.nameCanal{
-    
-    
+.card-body{
+  height: 10vh;
+}
+
+.menu__container{
+    position: relative;
 }
 
 #offcanvas{
@@ -64,7 +73,7 @@ main{
     .menu__lista li {
         width: 100%;
     }
-
+}
     /* ESTILOS DA SECAO SUPERIOR */
 
     .superior__secao__container {
@@ -95,7 +104,7 @@ main{
     .btn-danger{
     display: none;    
     }
-}
+
 
 
 
