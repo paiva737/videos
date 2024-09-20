@@ -12,7 +12,7 @@ async function buscarEMostrarVideos(){
                 }
                 containerVideos.innerHTML += `
                 <li class="videos__item">
-                
+                <img class = ".videos__item" src = "${video.url}>
                     <div class="descricao-video">
                         <img class="img-canal" src="${video.imagem} alt="Logo do Canal">
                         <h3 class="titulo-video">${video.titulo}</h3>
