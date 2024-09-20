@@ -2,84 +2,56 @@
     "inscritos": [
       {
         "id": 1,
-        "titulo": "úsica Chillout Profunda - Mistura de foco e alívio do estresse",
-        "descricao": "341 mil visualizações",
-        "url": "https://www.youtube.com/embed/J-BKM2ig744",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Musicas Relaxantes"
+        "titulo": "Rafael Paiva",
+        "descricao": "341 mil Inscritos",
+        "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 2,
-        "titulo": "Boost Your Focus: Future Garage Beats for Ultimate Work Productivity",
-        "descricao": "1,5 mil visualizações",
-        "url": "https://www.youtube.com/embed/EmAzY7yFm0k",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Musicas Relaxantes"
+        "titulo": "Rafael Paiva",
+        "descricao": "1,5 mil Inscritos",
+        "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
+       
       },
       {
         "id": 3,
-        "titulo": "Música de Trabalho Produtiva - Mistura de Concentração de Tony Stark",
-        "descricao": "30 mil visualizações",
-        "url": "https://www.youtube.com/embed/LVbUNRwpXzw",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Musicas Relaxantes"
+        "titulo": "Rafael Paiva",
+        "descricao": "30 mil Inscritos",
+        "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 4,
-        "titulo": "Daddy's Home Chest Day",
-        "descricao": "2,5 mil visualizações",
-        "url": "https://www.youtube.com/embed/WK0EsOkVyvM",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Academia"
+        "titulo": "Rafael Paiva",
+        "descricao": "2,5 mil Inscritos",
+        "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
+        
       },
       {
         "id": 5,
-        "titulo": "Max Effort Leg Day",
-        "descricao": "1,2 mil visualizações",
-        "url": "https://www.youtube.com/embed/x0SSwjIo22o",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Academia"
+        "titulo": "Rafael Paiva",
+        "descricao": "1,2 mil Inscritos",
+        "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 6,
-        "titulo": "Shoulders and Back Day",
-        "descricao": "1,6 mil visualizações",
-        "url": "https://www.youtube.com/embed/tpQBhLgK300",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Academia"
+        "titulo": "Rafael Paiva",
+        "descricao": "1,6 mil Inscritos",
+        "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 7,
-        "titulo": "CBUM - Flow #319",
-        "descricao": "3,2 mil visualizações",
-        "url": "https://www.youtube.com/embed/pQSuQmUfS30",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Podcasts"
+        "titulo": "Rafael Paiva",
+        "descricao": "3,2 Inscritos",
+        "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 8,
-        "titulo": "LEO STRONDA + RENATO CARIANI - Flow #353",
-        "descricao": "1,2 mil visualizações",
-        "url": "https://www.youtube.com/embed/tpmg-PNUa9Q",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Podcasts"
-      },
-      {
-        "titulo": "[PT/EN] RAMON DINO - Flow #293",
-        "descricao": "1 mil visualizações",
-        "url": "https://www.youtube.com/embed/BhS9eJrlusU?start=12",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "id": 9,
-        "categoria": "Podcasts"
-      },
-      {
-        "titulo": "Santos 4 x 5 Flamengo - melhores momentos (GLOBO HD 720p) Campeonato Brasileiro 2011",
-        "descricao": "18 mil visualizações",
-        "url": "https://www.youtube.com/embed/ycpt3nSK4QE",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "id": 10,
-        "categoria": "Futebol"
+        "titulo": "Rafael Paiva",
+        "descricao": "320 Inscritos",
+        "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
+        
       }
+ 
     ]
   }
   
