@@ -15,7 +15,19 @@ async function buscarEMostrarVideos(){
                 <img class = ".videos__item" src = "${video.url}>
                     <div class="descricao-video">
                         <img class="img-canal" src="${video.imagem} alt="Logo do Canal">
-                        <h3 class="titulo-video">${video.titulo}</h3>
+                        <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                          <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                              Descrição
+                            </button>
+                          </h2>
+                          <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample" style="">
+                            <div class="accordion-body">
+                              Esse canal no youtube é para falar sobre todos os videos de academia
+                            </div>
+                          </div>
+                        
                         <p class="categoria" hidden>${video.categoria}</p>
                     </div>
                 </li>

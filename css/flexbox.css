@@ -92,24 +92,17 @@
 
 }
 
-.titulo-video{
- border: solid 2px;
- width: 130vh;
- padding: 70px;
- margin: 30px;
- font-size: 2em;
- height: 20vh;
- 
-}
 
-.titulo-canal{
-  font-size: 2em;  
-  border: solid 2px;
-  padding: 70px;
-  margin: 30px;
-  height: 150px;
+.accordion-button{
+  width: 100vh;
+}
+.accordion-body{
+  height: 15vh;
   
 }
+
+
+
 
 .descricao-video .img-canal {
   grid-area: 1 / 1 / 3 / 2;
