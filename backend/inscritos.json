@@ -2,53 +2,44 @@
     "inscritos": [
       {
         "id": 1,
-        "titulo": "Rafael Paiva",
-        "descricao": "341 mil Inscritos",
+        "titulo": "Rafael Paiva<br> 341 mil inscritos",
         "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 2,
-        "titulo": "Rafael Paiva",
-        "descricao": "1,5 mil Inscritos",
+        "titulo": "Rafael Paiva<br>1,5 mil Inscritos",
         "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
        
       },
       {
         "id": 3,
-        "titulo": "Rafael Paiva",
-        "descricao": "30 mil Inscritos",
+        "titulo": "Rafael Paiva<br> 30 mil Inscritos",
         "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 4,
-        "titulo": "Rafael Paiva",
-        "descricao": "2,5 mil Inscritos",
+        "titulo": "Rafael Paiva<br>2,5 mil Inscritos",
         "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
         
       },
       {
         "id": 5,
-        "titulo": "Rafael Paiva",
-        "descricao": "1,2 mil Inscritos",
+        "titulo": "Rafael Paiva<br>1,2 mil Inscritos",
         "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 6,
-        "titulo": "Rafael Paiva",
-        "descricao": "1,6 mil Inscritos",
+        "titulo": "Rafael Paiva<br>1,6 mil Inscritos",
         "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 7,
-        "titulo": "Rafael Paiva",
-        "descricao": "3,2 Inscritos",
+        "titulo": "Rafael Paiva<br>3,2 Inscritos",
         "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
       },
       {
         "id": 8,
-        "titulo": "Rafael Paiva",
-        "descricao": "320 Inscritos",
-        "url": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true",
+        "titulo": "Rafael Paiva<br>320 Inscritos",
         "imagem": "https://github.com/paiva737/cartaoVisita/blob/main/Imagens/fotoperfil.jpeg?raw=true"
         
       }
