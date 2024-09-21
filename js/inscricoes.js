@@ -19,12 +19,12 @@ async function buscarEMostrarVideos(){
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                              Descrição
+                              ${video.titulo}
                             </button>
                           </h2>
                           <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample" style="">
                             <div class="accordion-body">
-                              Esse canal no youtube é para falar sobre todos os videos de academia
+                             ${video.descricao}
                             </div>
                           </div>
                         

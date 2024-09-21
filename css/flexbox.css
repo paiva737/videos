@@ -95,10 +95,13 @@
 
 .accordion-button{
   width: 100vh;
+  
+  
 }
+
+
 .accordion-body{
   height: 15vh;
-  
 }
 
 
