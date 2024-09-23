@@ -1,5 +1,9 @@
-
-
+header{
+  position: fixed;
+}
+body{
+  background-color: var(--color-text);
+}
 
 /* CABEÇALHO */
 
@@ -13,6 +17,10 @@
 
 .cabecalho__pesquisar__item {
   display: none;
+}
+
+header{
+  position: fixed;
 }
 
 .form__pesquisa {
@@ -67,6 +75,7 @@
   white-space: nowrap;
   overflow: scroll;
   gap: 15px;
+  
 }
 
 
@@ -76,7 +85,6 @@
   display: grid;
   flex-wrap: wrap;
   gap: 40px;
-  border: solid 2px;
   color: var(--color-text);
 }
 
@@ -95,7 +103,7 @@
 
 .accordion-button{
   width: 100vh;
-  
+  position: static;
   
 }
 
