@@ -110,14 +110,14 @@ const offcanvas = document.querySelector(".offcanvas");
 const botaoFechar = document.querySelector(".btn-close");
 
 botaoAvatar.addEventListener("click", (event) => {
-    event.preventDefault(); // Impede o comportamento padrão do link
+    event.preventDefault(); 
     
-    // Alterna as classes "show" e "offcanvas-end"
+    
     offcanvas.classList.toggle("show");
     offcanvas.classList.toggle("offcanvas-end");
 });
 
 
 botaoFechar.addEventListener("click", () => {
-    offcanvas.classList.remove("show"); // Remove a classe "show" para esconder o offcanvas
+    offcanvas.classList.remove("show"); 
 });
