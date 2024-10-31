@@ -251,31 +251,31 @@ body .light{
 }
 
 .icone__alura::before {
-    content: url(../img/sidebar/Avatar_Alura.png);
+    content: url(../img/sidebar/perfil.png);
 }
 
 .icone__gaveta::before {
-    content: url(../img/sidebar/Avatar_Gaveta.png);
+    content: url(../img/sidebar/perfil.png);
 }
 
 .icone__ballerini::before {
-    content: url(../img/sidebar/Avatar_Rafa.png);
+    content: url(../img/sidebar/perfil.png);
 }
 
 .icone__iamarino::before {
-    content: url(../img/sidebar/Avatar_Atila.png);
+    content: url(../img/sidebar/perfil.png);
 }
 
 .icone__souto::before {
-    content: url(../img/sidebar/Avatar_Souto.png);
+    content: url(../img/sidebar/perfil.png);
 }
 
 .icone__nerd::before {
-    content: url(../img/sidebar/Avatar_Jovem_Nerd.png);
+    content: url(../img/sidebar/perfil.png);
 }
 
 .icone__deschamps::before {
-    content: url(../img/sidebar/Avatar_Deschamps.png);
+    content: url(../img/sidebar/perfil.png);
 }
 
 .icone__mostrar::before {
